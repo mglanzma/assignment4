@@ -1,2 +1,2 @@
 # assignment4
-Computer science assignment for 225
+This is a test project
